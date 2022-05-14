@@ -10,6 +10,7 @@ export default {
       control: {type: 'select'},
     },
   },
+  args: {disabled: false},
 };
 
 const Template = (args) => <Button {...args} />;
