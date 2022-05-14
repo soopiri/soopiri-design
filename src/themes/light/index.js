@@ -1,3 +1,6 @@
+import button from './button'
+
 export default {
-  background: 'white'
+  background: 'white',
+  button
 }
