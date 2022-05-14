@@ -1,6 +1,6 @@
-import button from './button'
+import button from './button';
 
 export default {
   background: 'white',
-  button
-}
+  button,
+};
